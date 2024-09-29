@@ -16,5 +16,10 @@ namespace Actividad_N06_moanso_Grupo5
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+          // hello
+        }
     }
 }
