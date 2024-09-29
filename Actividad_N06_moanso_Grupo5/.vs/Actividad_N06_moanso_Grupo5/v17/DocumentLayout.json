@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LEO\\Desktop\\repositorio de github\\Actividad_N06_moanso_Grupo5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87E54D3A-85AE-4F02-B172-2A66BE698A59}|Actividad_N06_moanso_Grupo5\\Actividad_N06_moanso_Grupo5.csproj|c:\\users\\leo\\desktop\\repositorio de github\\actividad_n06_moanso_grupo5\\actividad_n06_moanso_grupo5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87E54D3A-85AE-4F02-B172-2A66BE698A59}|Actividad_N06_moanso_Grupo5\\Actividad_N06_moanso_Grupo5.csproj|solutionrelative:actividad_n06_moanso_grupo5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LEO\\Desktop\\repositorio de github\\Actividad_N06_moanso_Grupo5\\Actividad_N06_moanso_Grupo5\\Form1.cs",
+              "RelativeDocumentMoniker": "Actividad_N06_moanso_Grupo5\\Form1.cs",
+              "ToolTip": "C:\\Users\\LEO\\Desktop\\repositorio de github\\Actividad_N06_moanso_Grupo5\\Actividad_N06_moanso_Grupo5\\Form1.cs [Design]",
+              "RelativeToolTip": "Actividad_N06_moanso_Grupo5\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T03:56:54.602Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
